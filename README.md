@@ -1,13 +1,16 @@
 ## 1. Text-Editor der Wahl
 Spyder
+
 ## 2. Eine Python-Bibliothek
 Pyxel. Diese Bibliothek ermöglicht es mittels eines Baukastens Spiele 
 mit 16 Farben und 4 Sounds im Retro-Design zu entwickeln.
+
 ## 3. Eine Fehlermeldung und Ihre Lösung
-Key Error ,trotz langer Versuchsreihe keine Lösung gefunden. Dies führte zu 
-einer Fehlerkette die den Fortgang der Aufgaben behinderte wodurch ich 
-gezwungen war dies halbfertig abzugeben.
+#Fehlermeldung: KeyError Traceback (most recent call last) in ----> 1 pmid_data["result"]["title"]
+#Lösung: print(Titel:" pmid_data ["result"] [str(pmid)]["title"])
+
 ## 4. Was ist JupyterLab?
-Jupyter Lab ist eine Weiterentwicklung des Jupyter Notebooks und beinhaltet 
-mehr Features. Es ist dort möglich mehrere Notebooks/Tabs gleichzeitig offen
-zu haben
+
+JupyterLab ist die Weiterentwicklung des Juypter Notebooks.
+Das Juypter Notebook ist eine web-basierte Computerumgebung, deren Aufgabe es ist das darstellen von Daten zu ermöglichen.
+JupyterLab hingegen ist das Upgrade welches es ermöglicht simultan auf mehreren Tabs/Notebooks in einem Fenster zu arbeiten.
