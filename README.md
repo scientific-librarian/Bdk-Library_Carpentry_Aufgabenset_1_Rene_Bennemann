@@ -18,7 +18,7 @@ for pmid in pmids:
     print("Titel: " + pmid_data ["result"] [str(pmid)]["title"])
     print("Erscheinungsdatum: " + pmid_data ["result"] [str(pmid)]["pubdate"])
     print()
-    ```
+ ```
 ## 4. Was ist JupyterLab?
 
 JupyterLab ist die Weiterentwicklung des Juypter Notebooks.
