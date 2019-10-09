@@ -9,7 +9,16 @@ Die Bibliothek bietet mir aufgrund meiner Gaming-Passion eine hohe Motivation kr
 ## 3. Eine Fehlermeldung und Ihre Lösung
 #Fehlermeldung: KeyError Traceback (most recent call last) in ----> 1 pmid_data["result"]["title"]
 #Lösung: print(Titel:" pmid_data ["result"] [str(pmid)]["title"])
-
+```
+for pmid in pmids:
+    full_url = base_url + pmid
+    pmid_json_data = urllib.request.urlopen(full_url).read()
+    pmid_data = json.loads(pmid_json_data)
+    print(pmid)
+    print("Titel: " + pmid_data ["result"] [str(pmid)]["title"])
+    print("Erscheinungsdatum: " + pmid_data ["result"] [str(pmid)]["pubdate"])
+    print()
+    ```
 ## 4. Was ist JupyterLab?
 
 JupyterLab ist die Weiterentwicklung des Juypter Notebooks.
