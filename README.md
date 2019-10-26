@@ -26,3 +26,11 @@ Das Juypter Notebook ist eine web-basierte Computerumgebung, deren Aufgabe es is
 JupyterLab hingegen ist das Upgrade welches es ermöglicht simultan auf mehreren Tabs/Notebooks in einem Fenster zu arbeiten.
 
 ## 5. San Francisco
+Ergebnissanalyse:
+
+Zu Frage 1
+Durch das Filtern mit den keys war es möglich ausschließlich die geforderten Werte für meine Fragestellung herauszusuchen. Ein simples wechseln mithilfe von "#" zwischen der print- und der Headausgabe ermöglichte mir schnell die benötigten Informationen strukturiert zu auf einen Blick zu sehen. Hierbei fiel besonders die Bibliothek in Richmond im Mai 2015 auf. Deren Erneuerungen bei Senioren betrug 487 und lag somit weit über den Vergleichswerten.
+
+Zu Frage 2
+
+Mir war es nicht möglich mehrere tables zusammenzuführen. Im ersten Schritt, also dem zusammenführen von zwei tables war es mir möglich, den weiteren Schritt konnte ich nicht ausführen. 
